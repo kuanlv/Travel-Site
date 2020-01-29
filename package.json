@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kuanlv/Travel-Site#readme",
   "dependencies": {
+    "lodash": "^4.17.15",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
